@@ -23,3 +23,4 @@ else :
      print ("skip dah gakenal")
 
 print ('ini adalah akhir program')
+#tes
